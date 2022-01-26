@@ -1,0 +1,36 @@
+{
+  "name": "rauljuarez",
+  "version": "1.0.0",
+  "description": "My personal NPM business card",
+  "main": "./index.js",
+  "dependencies": {
+    "boxen": "^4.2.0",
+    "chalk": "^4.1.0",
+    "clear": "^0.1.0",
+    "inquirer": "^7.3.3",
+    "open": "^7.3.0"
+  },
+  "bin": {
+    "rauljuarez": "index.js"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rauljrz/rauljuarez.git"
+  },
+  "keywords": [
+    "NPM",
+    "Business",
+    "Card",
+    "Node"
+  ],
+  "author": "Raúl Juárez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rauljrz/rauljuarez/issues"
+  },
+  "homepage": "https://github.com/rauljrz/rauljuarez#readme"
+}
