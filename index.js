@@ -40,10 +40,10 @@ const data = {
     work: `${chalk.white("Senior Software Developer")} ${chalk
         .hex("#2b82b2")
         .green.bold("")}`,
-    blog: chalk.blue.bold("https://rauljrz.me/") + chalk.whiteBright("blog"),
+    blog: chalk.blue.bold("http://rauljrz.me/") + chalk.whiteBright("blog"),
     github: chalk.gray.bold("https://github.com/") + chalk.green("rauljrz"),
     linkedin: chalk.gray.bold("https://linkedin.com/in/") + chalk.whiteBright("rauljrz"),
-    web: chalk.cyan.bold("https://rauljrz.me"),
+    web: chalk.cyan.bold("http://rauljrz.me"),
     npx: chalk.green.bold("npx") + " " + chalk.white.bold("rauljrz"),
 
     labelWork:     chalk.white.bold("       Work:"),
